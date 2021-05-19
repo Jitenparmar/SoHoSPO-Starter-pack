@@ -1,4 +1,4 @@
-## sp-starter-kit
+## SoHoSPO-Starter-pack
 
 This is where you include your WebPart documentation.
 
